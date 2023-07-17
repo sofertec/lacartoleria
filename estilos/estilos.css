@@ -287,7 +287,7 @@ header ul li a:hover{
 .carteltrans{
     height: 300px;
     width: 300px;
-    background: url(./img/cartel-trans.png);
+    background: url(../img/cartel-trans.png);
     background-size: cover;
     background-position: center center;
     transition: .5s;
